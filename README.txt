@@ -1,3 +1,3 @@
 meu primeiro sistema no git
-
-nova linha
+adicionando imagem
+![] (CADASTRO DE MÁQUINAS.png)
